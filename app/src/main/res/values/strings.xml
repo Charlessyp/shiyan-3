@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LinearLayout3</string>
+    <string name="dca">DCA</string>
+    <string name="mars">MARS</string>
+    <string name="one_way">One Way</string>
+    <string name="depart">DEPART</string>
+    <string name="traveller_count">1 Traveller</string>
+    <string name="space_stations">Space Stations</string>
+    <string name="flights">Flights</string>
+    <string name="rovers">Rovers</string>
+    <string name="double_arrows">Double Arrows</string>
+</resources>
